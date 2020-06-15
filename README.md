@@ -1,1 +1,1 @@
-# Phonebook
+# This is a phonebook application that can be used to add phone numbers, mail id,etc of different persons. It allows you to add new contacts, delete a particular contact,search for a contact and display the entire list of contacts. But contacts cannot be modified as I could not implement it with my limited first year knowledge in C. The only way for modifying the contact is deleting and then rewriting the contact.
